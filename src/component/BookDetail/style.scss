@@ -1,0 +1,23 @@
+.book-detail img{
+    width: 300px;
+    height: 400px;
+    object-fit: contain;
+}
+
+.bb{
+    border-bottom: 1px solid #353535;
+}
+
+.bt{
+    border-top: 1px solid #353535;
+
+}
+
+@media only screen and (max-width: 768px) {
+    
+}
+
+
+.book-detail.row{
+    --bs-gutter-x:0 rem;
+}

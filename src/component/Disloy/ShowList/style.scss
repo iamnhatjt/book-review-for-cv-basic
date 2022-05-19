@@ -1,0 +1,32 @@
+.show{
+    width: 100%;
+    text-align: center;
+}
+
+.show img{
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+}
+
+.link{
+    list-style: none;
+    text-decoration: none;
+    color: var(--main-text);
+
+}
+
+button btn {
+    outline: none;
+}
+
+.sh-hover{
+    transition: all .5s ease;
+
+}
+
+.sh-hover:hover{
+    background-color: #353535;
+    color: white;
+    transition: all .5s ease;
+}

@@ -1,0 +1,26 @@
+.art-life .m-5{
+    font-size: 30px;
+    text-shadow: 1px 1px rgb(209, 185, 48);
+}
+
+.art-life-img img{
+    width: 240px;
+    height: 360px;
+    object-fit: contain;
+}
+
+.link:hover{
+    color: var(--main-text);
+}
+
+.fa-star{
+    color: yellow;
+}
+
+.life-border{
+    border-bottom: 1px solid #353535;
+}
+
+.art-life-title{
+    font-size: 25px;
+}
